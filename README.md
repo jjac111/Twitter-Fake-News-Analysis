@@ -1,5 +1,5 @@
 # Twitter fake news and user analysis with NetworkX graphs
-This is a Networks course final project for my university USFQ. The goal of this assignment is to be able to extract relevant features from networks of users in Twitter, with a focus on users who engage in communicating fake news.
+This is a Networks course final project for my university USFQ. The goal of this assignment is to be able to extract relevant features from networks of users in Twitter and plot them in a graph, with a focus on users who engage in communicating fake news.
 
 
 The project consists of two python scripts:
